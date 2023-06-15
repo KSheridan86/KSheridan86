@@ -27,6 +27,8 @@ A naturally curious team-player with effective communication skills and strong p
 - 🐙 GIT
 - 🌐 API's
 
+  <!-- This is a comment 
+
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   
@@ -38,8 +40,25 @@ A naturally curious team-player with effective communication skills and strong p
   title="JavaScript" alt="JavaScript" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="40"/>
           
-          
 </div>
+
+## Skills
+
+- ![HTML Devicon](https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg) HTML
+- ![CSS Devicon](https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg) CSS
+- ![Bootstrap Devicon](https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg) Bootstrap
+- ![JavaScript Devicon](https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg) JavaScript
+- ![jQuery Devicon](https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg) jQuery
+- ![Python Devicon](https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg) Python
+- ![Flask Devicon](https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg) Flask
+- ![Django Logo](https://www.djangoproject.com/m/img/logos/django-logo-negative.png) Django
+- ![Agile Devicon](https://raw.githubusercontent.com/devicons/devicon/master/icons/agile/agile-original.svg) Agile
+- ![MySQL Devicon](https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg) MySQL
+- ![Postgres Devicon](https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg) Postgres
+- ![Heroku Devicon](https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg) Heroku
+- ![GIT Devicon](https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg) GIT
+- ![APIs Devicon](https://raw.githubusercontent.com/devicons/devicon/master/icons/api/api-original.svg) APIs  -->
+
 
 ## Experience
 
