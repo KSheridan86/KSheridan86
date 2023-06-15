@@ -48,7 +48,7 @@ A naturally curious team-player with effective communication skills and strong p
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-original.svg" title="Heroku" alt="Heroku" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/agile/agile-original.svg" title="Agile" alt="Agile" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/api/api-original.svg" title="API's" alt="API's" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/api/api-original.svg" title="API's" alt="🌐" width="40" height="40"/>
           
 </div>
 
