@@ -3,12 +3,12 @@
 🔗 LinkedIn: [Ken Sheridan](https://www.linkedin.com/in/kensheridan86/)
 📧 Email: kensheridan86@gmail.com
 
-## About Me
+## Bio
 Junior Software Developer with a Diploma in Full stack Software Development from the Code Institute. Currently enrolled in the National College of Ireland, pursuing a HDip in Computer Science.
 
 A naturally curious team-player with effective communication skills and strong problem-solving ability. I am passionate about tech and the tech industry and excited to join a development team where I can grow and contribute. I have an interest in creative media and hold a diploma in media productions and a certificate in sound production. I consider myself an amateur musician and photographer, as such I am familiar with Photoshop and ProTools.
 
-## :hammer_and_wrench: Languages and Tools :
+## :hammer_and_wrench: Languages and Tools
 <div>
 
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
