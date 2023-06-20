@@ -44,6 +44,8 @@ In 2022, I started a Web Design business with the intention of expanding my skil
 
 ### Jan '23 - Present
 
+<img src="https://www.knowledgetransferireland.com/images_upload/Image-library-/NCI_Logo_colour_High-Res-.jpg" title="NCI" alt="NCI" width="60" height="40"/>&nbsp;
+
 National College of Ireland - HDip in Computer Science
 
 Course Modules Include:
@@ -61,6 +63,8 @@ Course Modules Include:
 ### Jan '22 - Jan '23
 
 The Code Institute - Diploma in Full-Stack Software Development, Specializing in E-Commerce.
+
+<img src="https://www.ibat.ie/images/logos/code_institute_logo.jpg" title="Code Institute" alt="Code Institute" width="60" height="40"/>&nbsp;
 
 Modules Completed Include:
 
